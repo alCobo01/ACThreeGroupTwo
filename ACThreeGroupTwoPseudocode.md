@@ -1,4 +1,7 @@
-prorgram Super4 
+## Pseudocodi
+
+```
+program Super4 
     const
         string CHOOSE_AVATAR = "Escoge el avatar entre 1 i 4: ":
         string CHOOSE_EVIL = "Escoge la maldad del avatar entre 1000 i 5000: ";
@@ -64,3 +67,7 @@ prorgram Super4
     write("El poder de cada Super4 es", power);
     write("Al avatar le queda", evil, "de maldad.")
 endprogram
+```
+
+## Diagrama de flux
+![diagrama](img/Super4-diagrama.png)
